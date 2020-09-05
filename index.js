@@ -13,3 +13,6 @@ function increment (n) {
 function decrement(n) {
   return n -= 1
 }
+function multiply(a, b) {
+  return a * b 
+}
